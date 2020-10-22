@@ -32,6 +32,9 @@ Microserviço responsável por operações de crud em nosso catalogo de produtos
 ```
 Para consultar a documentação de produtos acesse:
 - http://localhost:8081/swagger-ui/
+
+Para consultar o banco de dados acess:
+- http://localhost:8081/h2/
 ```
 
 <h4>:heavy_check_mark: shopping-cart</h4>
@@ -41,6 +44,9 @@ Microserviço responsável por operações de crud em nosso carrinho de compras.
 ```
 Para consultar a documentação de carrinho de compras acesse:
 - http://localhost:8082/swagger-ui/
+
+Para consultar o banco de dados acess:
+- http://localhost:8082/h2/
 ```
 Para verificar se a aplicação está UP, chame a URL:
 
