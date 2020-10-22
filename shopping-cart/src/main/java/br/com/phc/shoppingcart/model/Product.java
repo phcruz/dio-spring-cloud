@@ -1,4 +1,4 @@
-package br.com.phc.productcatalog.model;
+package br.com.phc.shoppingcart.model;
 
 import java.math.BigDecimal;
 
