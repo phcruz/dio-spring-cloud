@@ -18,8 +18,8 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 public class SwaggerConfig {
 
 	private static final String BASE_PACKAGE = "br.com.phc.productcatalog.controller";
-	private static final String API_TITULO = "Brasileirao API - Scraping";
-	private static final String API_DESCRICAO = "REST API for Scraping";
+	private static final String API_TITULO = "Product Catalog";
+	private static final String API_DESCRICAO = "REST API for products";
 	private static final String API_VERSAO = "1.0.0";
 	private static final String CONTATO_NOME = "Paulo Henrique da Cruz";
 	private static final String CONTATO_GITHUB = "https://github.com/phcruz";
